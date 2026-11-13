@@ -33,7 +33,6 @@ Locales\strings.lua
 models.lua
 Commands\Commands_Main.lua
 Commands\Commands_Tele.lua
-Commands\Commands_Log.lua
 Commands\Commands_Char.lua
 Commands\Commands_Ticket.lua
 Commands\Commands_Misc.lua
